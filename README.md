@@ -10,6 +10,10 @@ Aprendizado de Máquina Automatizado para Previsão de Aluguel de Bicicletas
 
 - O conjunto de dados utilizado neste projeto é derivado do programa Capital Bikeshare e é utilizado de acordo com o contrato de licença de dados. O conjunto de dados consiste em detalhes históricos de aluguel de bicicletas.
 
+- URL da Web :
+
+[URL da Web](https://aka.ms/bike-rentals)
+
 ## Configuração no Azure Machine Learning Studio
 - Para replicar o experimento, siga estes passos:
 
